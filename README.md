@@ -1,0 +1,1 @@
+# Cosmos Mainnet DAppNode package
