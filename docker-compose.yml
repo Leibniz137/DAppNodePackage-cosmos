@@ -1,0 +1,5 @@
+version: '3.4'
+services:
+  cosmos.public.dappnode.eth:
+    image: 'cosmos.public.dappnode.eth:0.0.1'
+    build: ./build

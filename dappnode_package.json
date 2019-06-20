@@ -1,0 +1,15 @@
+{
+  "name": "cosmos.public.dappnode.eth",
+  "version": "0.0.1",
+  "description": "gaiad, the first implementation of the Cosmos Hub",
+  "avatar": "",
+  "type": "service",
+  "image": {
+    "path": "",
+    "hash": "",
+    "size": "",
+    "restart": "always"
+  },
+  "author": "Nate Gentile",
+  "license": "GLP-3.0"
+}
